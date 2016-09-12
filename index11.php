@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>
-	</title>
+	<title>始めようphp</title>
+<meta charset="utf-8">
 </head>
 <body>
-	<h1></h1>
-	<h2></h2>
-	<h3></h3>
-
+	<h1>動的なwebページの作成</h1>
+	<form method="post" action="">
+		<label>名前<input type="text" name="username" required></label>
+		<input type="submit" name="exe" value="実行">
+	</form>
 </body>
 </html>
